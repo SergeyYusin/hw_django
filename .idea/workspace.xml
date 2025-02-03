@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00cb1eb7-7c3a-4e28-a11a-337f8f3f1eb9" name="Changes" comment="task">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="00cb1eb7-7c3a-4e28-a11a-337f8f3f1eb9" name="Changes" comment="task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +16,8 @@
         <option value="git remote add origin https://github.com/SergeyYusin/hw_django.git" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/djspd-homeworks" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -35,7 +34,7 @@
     "Python.views.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/asd/Desktop/python/my_hw_django2.1/djspd-homeworks/2.1/orm_shop/manage.py"
+    "last_opened_file_path": "C:/Users/asd/Desktop/python/my_hw_django2.1"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -138,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738604942964</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task">
+      <option name="closed" value="true" />
+      <created>1738605123359</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738605123359</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
